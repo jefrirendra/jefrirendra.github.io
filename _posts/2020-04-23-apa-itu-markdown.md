@@ -6,7 +6,6 @@ categories:
   - Info
 tags:
   - markdown
-  - html
 ---
 
 
